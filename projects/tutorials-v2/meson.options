@@ -1,0 +1,2 @@
+# Execution platform
+option('platform', type : 'combo', choices : ['qemu_virt', 'qemu_virt2', 'cheshire', 'cheshire2'], value : 'qemu_virt2')
